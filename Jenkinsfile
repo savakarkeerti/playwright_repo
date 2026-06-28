@@ -6,6 +6,7 @@ pipeline {
             steps {
                 bat 'npm install'
             }
+            
         }
 
         stage('Install Playwright Browsers') {
