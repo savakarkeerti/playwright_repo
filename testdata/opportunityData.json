@@ -1,0 +1,16 @@
+{
+  "loginUrl": "http://localhost:8888/index.php?action=Login&module=Users",
+  "moduleUrl": "http://localhost:8888/index.php?module=Potentials&action=index",
+  "credentials": {
+    "username": "admin",
+    "password": "root"
+  },
+  "opportunity": {
+    "name": "Karthi_Mart",
+    "accountName": "aadya",
+    "leadSource": "Existing Customer",
+    "closingDate": "30",
+    "salesStage": "Perception Analysis",
+    "description": "framework testing with lot of error"
+  }
+}

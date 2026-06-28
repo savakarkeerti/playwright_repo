@@ -1,0 +1,12 @@
+{
+  "loginUrl": "http://localhost:8888/index.php?action=Login&module=Users",
+  "moduleUrl": "http://localhost:8888/index.php?module=SalesOrder&action=index",
+  "credentials": {
+    "username": "admin",
+    "password": "root"
+  },
+  "salesOrder": {
+    "subject": "Playwright Sales Order Test",
+    "account": "Test Account"
+  }
+}

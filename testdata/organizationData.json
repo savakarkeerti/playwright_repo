@@ -1,0 +1,12 @@
+{
+  "loginUrl": "http://localhost:8888/index.php?action=Login&module=Users",
+  "moduleUrl": "http://localhost:8888/index.php?module=Accounts&action=index",
+  "credentials": {
+    "username": "admin",
+    "password": "root"
+  },
+  "organization": {
+    "name": "Testing_Keerti",
+    "industry": "Finance"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "loginUrl": "http://localhost:8888/index.php?action=Login&module=Users",
+  "moduleUrl": "http://localhost:8888/index.php?module=Leads&action=index",
+  "credentials": {
+    "username": "admin",
+    "password": "root"
+  },
+  "lead": {
+    "salutation": "Ms.",
+    "firstName": "Keerti_1",
+    "lastName": "Savakar_2",
+    "company": "Aadya mart_2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "loginUrl": "http://localhost:8888/index.php?action=Login&module=Users",
+  "moduleUrl": "http://localhost:8888/index.php?module=Contacts&action=index",
+  "credentials": {
+    "username": "admin",
+    "password": "root"
+  },
+  "contact": {
+    "salutation": "Ms.",
+    "firstName": "Nayana",
+    "lastName": "BK",
+    "accountName": "Testing_Keerti",
+    "filePath": "C:/Users/Keerti Savakar/OneDrive/Desktop/file_example_JPG_100kB.jpg"
+  }
+}

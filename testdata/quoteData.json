@@ -1,0 +1,17 @@
+{
+  "loginUrl": "http://localhost:8888/index.php?action=Login&module=Users",
+  "editUrl": "http://localhost:8888/index.php?module=Quotes&action=EditView&return_action=DetailView&parenttab=Sales",
+  "credentials": {
+    "username": "admin",
+    "password": "root"
+  },
+  "quote": {
+    "subject": "Playwright Quote Test",
+    "contactName": "Keerti Savakar",
+    "accountName": "aadya",
+    "productName": "Aadya products",
+    "stage": "Delivered",
+    "description": "testing keerti",
+    "qty": "6"
+  }
+}

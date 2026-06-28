@@ -1,0 +1,11 @@
+{
+  "loginUrl": "http://localhost:8888/index.php?action=Login&module=Users",
+  "editUrl": "http://localhost:8888/index.php?module=Documents&action=EditView&return_action=DetailView&parenttab=Marketing",
+  "credentials": {
+    "username": "admin",
+    "password": "root"
+  },
+  "document": {
+    "title": "Playwright Document Test"
+  }
+}

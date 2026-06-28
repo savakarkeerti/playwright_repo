@@ -1,0 +1,11 @@
+{
+  "loginUrl": "http://localhost:8888/index.php?action=Login&module=Users",
+  "moduleUrl": "http://localhost:8888/index.php?module=Products&action=index",
+  "credentials": {
+    "username": "admin",
+    "password": "root"
+  },
+  "product": {
+    "name": "Aadya products"
+  }
+}
